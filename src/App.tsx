@@ -521,6 +521,7 @@ const fetchEvents = async () => {
       </div>
       <Toaster />
     </div>
+    //1
   );
 
   return (
@@ -529,5 +530,5 @@ const fetchEvents = async () => {
       <ResponsiveDemo>{appContent}</ResponsiveDemo>
     </>
   );
-  //oi
+  //oi.
 }
